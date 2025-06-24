@@ -2,6 +2,10 @@
 
 A lightweight code sharing application that lets you save and share code snippets instantly - no authentication required.
 
+## Live Demo
+
+**Demo URL:** [https://code-sharing-delta.vercel.app](https://code-sharing-delta.vercel.app)
+
 ## Features
 
 - Edit code in multiple languages with syntax highlighting
@@ -15,5 +19,17 @@ A lightweight code sharing application that lets you save and share code snippet
 1. **Edit** your code in the built-in editor
 2. **Select** your preferred language and theme
 3. **Click Share** to generate a unique URL and Save the Code
+
+## Tech Stack
+
+### Frontend
+
+1. **React** – JavaScript library for building user interfaces
+2. **Monaco Editor** – VS Code-like code editor embedded in the browser
+3. **Tailwind CSS** – Utility-first CSS framework for fast styling
+4. **React Router** – For navigating between views
+5. **Axios** – For API requests
+
+UUID – For generating unique shareable IDs (handled in backend)
 
 <!-- - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh -->
