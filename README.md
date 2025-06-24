@@ -1,12 +1,19 @@
-# React + Vite
+# NoteCode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight code sharing application that lets you save and share code snippets instantly - no authentication required.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Edit code in multiple languages with syntax highlighting
+- Choose from various editor themes
+- Generate shareable links with unique IDs
+- Fully responsive design
+- Fast and simple - no login needed
 
-## Expanding the ESLint configuration
+## Quick Start
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Edit** your code in the built-in editor
+2. **Select** your preferred language and theme
+3. **Click Share** to generate a unique URL and Save the Code
+
+<!-- - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh -->
