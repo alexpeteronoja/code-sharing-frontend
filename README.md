@@ -29,7 +29,3 @@ A lightweight code sharing application that lets you save and share code snippet
 3. **Tailwind CSS** – Utility-first CSS framework for fast styling
 4. **React Router** – For navigating between views
 5. **Axios** – For API requests
-
-UUID – For generating unique shareable IDs (handled in backend)
-
-<!-- - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh -->
