@@ -1,5 +1,5 @@
 import { Editor } from '@monaco-editor/react';
-import DefaultText from '../component/defaultText';
+import DefaultText from '../component/DefaultText';
 import '../App.css';
 import axios from 'axios';
 import { useEffect, useState } from 'react';
